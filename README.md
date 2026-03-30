@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:polomino59@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -34,6 +34,23 @@ día a día como programador.
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+
+  <p>
+  <img src="https://img.shields.io/badge/Programacion Orientada a Objetos-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resolución_de_Problemas-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Comunicación-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trabajo_en_Equipo-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gestión_del_Tiempo_y_Organizacion-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adaptabilidad-111111?style=for-the-badge&logoColor=white" />
+</p>
+  
 </p>
 
 ---
