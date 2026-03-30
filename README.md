@@ -47,36 +47,17 @@ día a día como programador.
 
 ---
 
-<table>
-  <tr>
-
-    <td width="50%" valign="top">
-
 ## 🚀 Proyectos Destacados
 
 ### 📋 Gestor de tareas
-Aplicación para organizar tareas y practicar lógica de programación.
+Aplicación para organizar tareas y practicar lógica de programación, CRUD y manejo de datos.
 
 ### 🌐 Portfolio Web
-Sitio personal para mostrar mis proyectos.
+Sitio personal para mostrar mis proyectos, tecnologías y evolución como desarrollador.
 
 ### 🗄 Sistema con SQL
-Proyecto con consultas y CRUD.
+Proyecto orientado a consultas SQL, modelado de base de datos y operaciones CRUD
 
-    </td>
-
-    <td width="50%" valign="top">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joaquimino&show_icons=true&theme=dark" />
-
-<br>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaquimino&layout=compact&theme=dark" />
-
-    </td>
-
-  </tr>
-</table>
 ---
 
 ## 📚 Actualmente aprendiendo
