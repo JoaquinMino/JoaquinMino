@@ -32,7 +32,7 @@ día a día como programador.
 ### Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5&logoColor=E34F26&v=2" />
-  <img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3&logoColor=1572B6&v=2" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6&v=2" />
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E&v=2" />
 </p>
 
