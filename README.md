@@ -46,7 +46,7 @@ día a día como programador.
   <img src="https://img.shields.io/badge/Comunicación-111111?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Trabajo_en_Equipo-111111?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Gestión_del_Tiempo_y_Organizacion-111111?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adaptabilidad-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adaptabilidad-222220?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
