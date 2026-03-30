@@ -17,7 +17,7 @@
 
 ## 📌 Sobre mí
 
-Estudiante de programación, enfocado apasionado por construir soluciones con código.
+Estudiante de programación, enfocado y apasionado por construir soluciones con código.
 Me encuentro aprendiendo y mejorando constantemente, con interés en el desarrollo Full-Stack y haciendo proyectos reales para crecer
 día a día como programador.
 
