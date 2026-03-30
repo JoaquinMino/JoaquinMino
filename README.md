@@ -49,30 +49,32 @@ día a día como programador.
 
 <table>
   <tr>
+
     <td width="50%" valign="top">
 
 ## 🚀 Proyectos Destacados
 
 ### 📋 Gestor de tareas
-Aplicación para organizar tareas y practicar lógica de programación, CRUD y manejo de datos.
+Aplicación para organizar tareas y practicar lógica de programación.
 
 ### 🌐 Portfolio Web
-Sitio personal para mostrar mis proyectos, tecnologías y evolución como desarrollador.
+Sitio personal para mostrar mis proyectos.
 
 ### 🗄 Sistema con SQL
-Proyecto orientado a consultas SQL, modelado de base de datos y operaciones CRUD.
+Proyecto con consultas y CRUD.
 
     </td>
 
     <td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JoaquinMino&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joaquimino&show_icons=true&theme=dark" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinMino&layout=compact&theme=dark" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaquimino&layout=compact&theme=dark" />
 
     </td>
+
   </tr>
 </table>
 ---
