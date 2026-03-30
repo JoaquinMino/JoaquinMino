@@ -30,11 +30,11 @@ día a día como programador.
   <img src="https://img.shields.io/badge/css3-222220.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-222220.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/python-222220?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-222220.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-222220?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-222220.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-222220.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/sqlite-222220.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-222220.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-222220?style=for-the-badge&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/NetBeansIDE-222220.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-222220.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
