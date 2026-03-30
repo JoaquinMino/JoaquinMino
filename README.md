@@ -25,30 +25,31 @@ día a día como programador.
 
 ## 💻 Tecnologías y Herramientas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,mongodb,mysql&theme=dark" />
-</p>
-
 ### Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5&logoColor=E34F26&v=2" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6&v=2" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E&v=2" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB&v=2" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E&v=2" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 ### Bases de datos
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248&v=2" />
-  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1&v=2" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ---
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
 ## 🚀 Proyectos Destacados
 
@@ -61,6 +62,19 @@ Sitio personal para mostrar mis proyectos, tecnologías y evolución como desarr
 ### 🗄 Sistema con SQL
 Proyecto orientado a consultas SQL, modelado de base de datos y operaciones CRUD.
 
+    </td>
+
+    <td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JoaquinMino&show_icons=true&theme=dark" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinMino&layout=compact&theme=dark" />
+
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📚 Actualmente aprendiendo
