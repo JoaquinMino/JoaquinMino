@@ -25,6 +25,10 @@ día a día como programador.
 
 ## 💻 Tecnologías y Herramientas
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,mongodb,mysql&theme=dark" />
+</p>
+
 ### Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
@@ -42,14 +46,6 @@ día a día como programador.
 <p>
   <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248" />
   <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=database&logoColor=3E8EDE" />
-</p>
-
----
-
-## 🛠 Stack visual con íconos
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,mongodb,mysql&theme=dark" />
 </p>
 
 ---
