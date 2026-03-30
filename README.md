@@ -41,16 +41,12 @@ día a día como programador.
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-
-  <p>
   <img src="https://img.shields.io/badge/Programacion Orientada a Objetos-111111?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Resolución_de_Problemas-111111?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Comunicación-111111?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Trabajo_en_Equipo-111111?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Gestión_del_Tiempo_y_Organizacion-111111?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Adaptabilidad-111111?style=for-the-badge&logoColor=white" />
-</p>
-  
 </p>
 
 ---
