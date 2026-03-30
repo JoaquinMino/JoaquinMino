@@ -32,7 +32,7 @@ día a día como programador.
 ### Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
@@ -45,7 +45,7 @@ día a día como programador.
 ### Bases de datos
 <p>
   <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=database&logoColor=3E8EDE" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 </p>
 
 ---
