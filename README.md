@@ -51,19 +51,6 @@ día a día como programador.
 
 ---
 
-## 🚀 Proyectos Destacados
-
-### 📋 Gestor de tareas
-Aplicación para organizar tareas y practicar lógica de programación, CRUD y manejo de datos.
-
-### 🌐 Portfolio Web
-Sitio personal para mostrar mis proyectos, tecnologías y evolución como desarrollador.
-
-### 🗄 Sistema con SQL
-Proyecto orientado a consultas SQL, modelado de base de datos y operaciones CRUD
-
----
-
 ## 📚 Actualmente aprendiendo
 
 - Buenas prácticas en Node.js
